@@ -1,6 +1,6 @@
 # ChatApp with socket.io
 
-###Within the local environment two or more persons can create a chat room and chit chat!
+### Within the local environment two or more persons can create a chat room and chit chat!
 
 Below is demo
 
